@@ -1,0 +1,2 @@
+[console_scripts]
+start = my_fastapi_blog.app.main:run
