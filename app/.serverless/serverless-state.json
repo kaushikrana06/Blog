@@ -175,7 +175,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/your-service-name/dev/1706728151822-2024-01-31T19:09:11.822Z/your-service-name.zip"
+                "S3Key": "serverless/your-service-name/dev/1706729631108-2024-01-31T19:33:51.108Z/your-service-name.zip"
               },
               "Handler": "main.handler",
               "Runtime": "python3.9",
@@ -473,7 +473,7 @@
     "artifact": "C:\\Users\\sonad\\Downloads\\new\\new\\Test\\my_fastapi_blog\\app\\.serverless\\your-service-name.zip"
   },
   "package": {
-    "artifactDirectoryName": "serverless/your-service-name/dev/1706728151822-2024-01-31T19:09:11.822Z",
+    "artifactDirectoryName": "serverless/your-service-name/dev/1706729631108-2024-01-31T19:33:51.108Z",
     "artifact": "your-service-name.zip"
   }
 }
