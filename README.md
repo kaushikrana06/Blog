@@ -124,9 +124,6 @@ This document provides an overview of the endpoints available in the BlogAgain A
 - Some URLs may require authentication (access token) or specific parameters/body.
 - Adjust `skip` and `limit` for pagination as needed.
 
-## Contributing
-We welcome contributions from the community. If you wish to contribute, please follow the standard procedures for submitting issues and/or pull requests.
-
 
 ---
 
