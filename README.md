@@ -127,8 +127,6 @@ This document provides an overview of the endpoints available in the BlogAgain A
 ## Contributing
 We welcome contributions from the community. If you wish to contribute, please follow the standard procedures for submitting issues and/or pull requests.
 
-## License
-[MIT License](LICENSE.md)
 
 ---
 
